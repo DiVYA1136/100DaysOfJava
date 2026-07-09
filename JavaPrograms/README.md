@@ -39,3 +39,6 @@ A repository tracking my 100 Days of Java challenge.
 ### Day 8
 - ElectricityBill
 - EmployeeSalary
+
+### Day 9
+- Documentation and Repository Maintenance
