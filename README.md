@@ -42,3 +42,6 @@ A repository tracking my 100 Days of Java challenge.
 
 ### Day 9
 - Documentation and Repository Maintenance
+
+### Day 10
+- Progress Review and Mid-point Documentation
