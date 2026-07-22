@@ -45,3 +45,6 @@ A repository tracking my 100 Days of Java challenge.
 
 ### Day 10
 - Progress Review and Mid-point Documentation
+
+### Day 11
+- OOP Concept Verification & Readme Formatting
